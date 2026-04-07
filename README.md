@@ -6,7 +6,6 @@ A character-level GPT trained on five religious and philosophical texts from Pro
 
 - `notebook/` – Jupyter notebooks for preprocessing, training, and generating text – also contains saved model
 - `data/archive/` – Original `.txt` files from Project Gutenberg.
-- `model/` – Saved PyTorch model checkpoints.
 - `README.md` – This file.
 
 ## Setup
