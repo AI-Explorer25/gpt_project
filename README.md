@@ -2,6 +2,18 @@
 
 A character-level GPT trained on five religious and philosophical texts from Project Gutenberg for text generation experiments.
 
+### Dataset
+
+The project uses 5 religious and philosophical texts from Project Gutenberg for training and experimentation:
+
+1. **The Book of Meditations** – Marcus Aurelius  
+2. **The Book of Mormon** – Joseph Smith  
+3. **The Gospel of Buddha** – Paul Carus  
+4. **The King James Bible** – Various authors  
+5. **The Koran** – Translated by Multiple Translators
+
+These texts are included in the repository under `data/archive/`.
+
 ## Files
 
 - `notebook/` – Jupyter notebooks for preprocessing, training, and generating text – also contains saved model
